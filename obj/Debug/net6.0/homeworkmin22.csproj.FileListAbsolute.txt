@@ -1,0 +1,5 @@
+C:\Users\ACER\Desktop\homeworkmin22\obj\Debug\net6.0\homeworkmin22.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\homeworkmin22\obj\Debug\net6.0\homeworkmin22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\homeworkmin22\obj\Debug\net6.0\homeworkmin22.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\homeworkmin22\obj\Debug\net6.0\homeworkmin22.AssemblyInfo.cs
+C:\Users\ACER\Desktop\homeworkmin22\obj\Debug\net6.0\homeworkmin22.csproj.CoreCompileInputs.cache
